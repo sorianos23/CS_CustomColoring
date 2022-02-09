@@ -1,3 +1,6 @@
+/*
+@ Bryan Soriano
+ */
 package com.example.coloringbook;
 
 public class PageModel {

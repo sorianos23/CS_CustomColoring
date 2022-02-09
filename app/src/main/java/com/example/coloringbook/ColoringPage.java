@@ -1,3 +1,6 @@
+/*
+@ Bryan Soriano
+ */
 package com.example.coloringbook;
 
 import android.content.Context;

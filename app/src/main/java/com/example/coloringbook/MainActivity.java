@@ -1,3 +1,7 @@
+/*
+@ Bryan Soriano
+ */
+
 package com.example.coloringbook;
 
 import android.content.pm.ActivityInfo;
